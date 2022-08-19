@@ -1,0 +1,7 @@
+version: '3'
+services:
+  testproj:
+    image: testproj:1.0
+    environment:
+      - PYTHONUNBUFFERED=1
+    
