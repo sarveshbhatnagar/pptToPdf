@@ -9,3 +9,5 @@
 
 > When Rerunning, just use step 5.
 > When you want to build and use, run step 3 and 5.
+
+TODO check changing ENV HOME=/tmp and remove that config from lambda configurations.
